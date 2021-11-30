@@ -9,3 +9,6 @@ Route::get('/', function () {
 Route::get('/member',function(){
     echo "hello wold";
 });
+Route::get('/member',function(){
+    echo "hello wold2";
+});
